@@ -1,0 +1,16 @@
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.exe
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.deps.json
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.runtimeconfig.json
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.runtimeconfig.dev.json
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.dll
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.pdb
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\CalculatorLib.dll
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\CalculatorLib.pdb
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.csprojAssemblyReference.cache
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.AssemblyInfoInputs.cache
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.AssemblyInfo.cs
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.csproj.CopyComplete
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.dll
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.pdb
+C:\Training\Day8 23-03-2021\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.genruntimeconfig.cache
