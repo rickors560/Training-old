@@ -22,7 +22,6 @@ namespace DelegateDemo2
 
             c = newCal.div;
             newCal.printRes(c);
-            
         }
     }
 }
