@@ -10,3 +10,4 @@ C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\
 C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\obj\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).dll
 C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\obj\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).pdb
 C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\obj\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).genruntimeconfig.cache
+C:\Training\Day9 24-03-2021\EventRealTimeDemo (Clock)\EventRealTimeDemo (Clock)\obj\Debug\netcoreapp3.1\EventRealTimeDemo (Clock).csprojAssemblyReference.cache
