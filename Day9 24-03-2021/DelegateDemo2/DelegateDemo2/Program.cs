@@ -7,11 +7,12 @@ namespace DelegateDemo2
         
         static void Main(string[] args)
         {
-            Calculator newCal = new Calculator {
+            Calculator newCal = new Calculator
+            {
                 Num1 = 100,
                 Num2 = 50
             };
-            Calculator.CalDelegate c = newCal.add;
+            Calculator.CalDelegate c =  newCal.add;
             newCal.printRes(c);
 
             c = newCal.sub;

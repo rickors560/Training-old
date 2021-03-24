@@ -7,7 +7,6 @@ namespace DelegateDemo2
     public class Calculator
     {
         public delegate decimal CalDelegate();
-
         public decimal Num1 { get; set; }
         public decimal Num2 { get; set; }
         public decimal add() {
