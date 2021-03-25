@@ -10,3 +10,4 @@ C:\Training\Day9 24-03-2021\demo\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCo
 C:\Training\Day9 24-03-2021\demo\demo\obj\Debug\netcoreapp3.1\demo.dll
 C:\Training\Day9 24-03-2021\demo\demo\obj\Debug\netcoreapp3.1\demo.pdb
 C:\Training\Day9 24-03-2021\demo\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache
+C:\Training\Day9 24-03-2021\demo\demo\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache

@@ -6,11 +6,14 @@ namespace demo
 {
     public class Manager
     {
+        Agent a;
+        public Manager()
+        {
+            a = new Agent();
+        }
         public void manage() {
             Console.WriteLine("Task Completed Send Message Now ->");
-            Agent agent = new Agent();
-            Phone ph = new Phone();
-            agent.sendMessage(ph.CallByPhone);
+            a.sendMessage(CallType.CallByPhone);
         }
     }
 }
