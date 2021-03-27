@@ -17,5 +17,9 @@ namespace LinQDemo
             Title = t;
             Owner = o;
         }
+        public override string ToString()
+        {
+            return $"ID = {Id} Price = {Price} Title = {Title} Owner = {Owner}"; 
+        }
     }
 }

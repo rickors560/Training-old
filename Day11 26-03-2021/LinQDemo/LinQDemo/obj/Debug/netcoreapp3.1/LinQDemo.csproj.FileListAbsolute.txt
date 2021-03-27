@@ -1,4 +1,3 @@
-C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.csprojAssemblyReference.cache
 C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.AssemblyInfoInputs.cache
 C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.AssemblyInfo.cs
 C:\Training\Day11 26-03-2021\LinQDemo\LinQDemo\obj\Debug\netcoreapp3.1\LinQDemo.csproj.CoreCompileInputs.cache
