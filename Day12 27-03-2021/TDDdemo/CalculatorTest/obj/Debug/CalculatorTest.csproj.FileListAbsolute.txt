@@ -1,0 +1,16 @@
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\bin\Debug\CalculatorLib.dll
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\bin\Debug\CalculatorLib.pdb
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\obj\Debug\CalculatorTest.csprojAssemblyReference.cache
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\obj\Debug\CalculatorTest.csproj.CopyComplete
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorTest\obj\Debug\CalculatorTest.pdb

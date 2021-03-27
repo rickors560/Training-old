@@ -1,0 +1,8 @@
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorLib\bin\Debug\netstandard2.1\CalculatorLib.deps.json
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorLib\bin\Debug\netstandard2.1\CalculatorLib.dll
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorLib\bin\Debug\netstandard2.1\CalculatorLib.pdb
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorLib\obj\Debug\netstandard2.1\CalculatorLib.AssemblyInfoInputs.cache
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorLib\obj\Debug\netstandard2.1\CalculatorLib.AssemblyInfo.cs
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorLib\obj\Debug\netstandard2.1\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorLib\obj\Debug\netstandard2.1\CalculatorLib.dll
+C:\Training\Day12 27-03-2021\TDDdemo\CalculatorLib\obj\Debug\netstandard2.1\CalculatorLib.pdb
